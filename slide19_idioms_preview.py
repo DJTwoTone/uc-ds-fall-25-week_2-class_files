@@ -1,7 +1,7 @@
-users = ["ana", "ben", "cai"]
-scores = [91, 88, 95]
-for u, s in zip(users, scores):
-    print(u, s)
+# users = ["ana", "ben", "cai"]
+# scores = [91, 88, 95]
+# for u, s in zip(users, scores):
+#     print(u, s)
 
 records = [
     {"name": "ana", "score": 91},
